@@ -1,2 +1,3 @@
 # BandWebsite
-A website created for the band "Reasy Ajarro". Currently work in progress.
+Currently work in progress.
+A website created for the band "Reasy Ajarro".
